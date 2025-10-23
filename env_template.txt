@@ -1,0 +1,5 @@
+MONGO_DB_URL="mongodb://localhost:27017/"
+MONGO_DB_NAME="chat_data"
+OLLAMA_URL="http://localhost:11434"
+// configurable either local or an EC2 instance
+OLLAMA_MODELS="gemma2:2b,llama3:latest,mistral:7b"
